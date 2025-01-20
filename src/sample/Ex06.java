@@ -1,3 +1,4 @@
+package sample;
 public class Ex06 {
     public static void main(String[] args) {
         Human person = new Human();
