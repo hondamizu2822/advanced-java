@@ -1,3 +1,4 @@
+package sample;
 public class Ex01 {
     public static void main(String[] args) {
         String masage = "I have a dream today";
